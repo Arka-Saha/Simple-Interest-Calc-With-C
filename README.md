@@ -1,1 +1,1 @@
-# Simple-Interest-Calc-With-C
+# Simple Interest Calc With C
